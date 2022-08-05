@@ -1,4 +1,4 @@
-# [Cool Engine](https://github.com/sofy62/sonic.exe-the-rom/)
+# [Sonic.exe The Rom.](https://github.com/sofy62/sonic.exe-the-rom/)
 
 **FNF': Cool Engine is a modification of the original FNF' source code the mod includes new Options and better Graphics!!**
 ----------------------------------------------
