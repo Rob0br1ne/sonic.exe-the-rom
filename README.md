@@ -7,18 +7,15 @@
 ----------------------------------------------
 
 ## The Cool Engine Team Credits
-- [Manux (me)](https://twitter.com/ActionsAnimati1) - Programmer Friday Night Funkin: Cool Engine
-- [Jloor](https://twitter.com/GamerJloor) - Programmer Friday Night Funkin: Cool Engine
-- [Chasetodie](https://twitter.com/Chasetodie10) - Programmer Friday Night Funkin: Cool Engine
-- [MrClogsworthYT](https://youtube.com/c/MrClogsworthYT) - Programmer and composer Friday Night Funkin: Cool Engine
-- [Overcharged Dev](https://www.youtube.com/channel/UCkcscIIXyUsfj2DsnNDWQbg/) - Programmer Friday Night Funkin: Cool Engine
-- [FairyBoy](https://twitter.com/JulianSamwise?s=09) and [Zero Artist](https://twitter.com/zero_artist02) - Artists Friday Night Funkin: Cool Engine
+- [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - Director of the mod "sonic.exe the rom," and is also coder.
+- [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the mod "Sonic.exe the rom"
+- [Pokinyoko](https://scratch.mit.edu/users/Pokinyoko) - Artist for the mod "Sonic.exe the rom" (also made the logo!)
+- [Funni_guy6](https://scratch.mit.edu/users/Funni_guy6) - Artist for the mod "Sonic.exe the rom"
+- [RAS1_friend](https://scratch.mit.edu/users/RAS1_friend) - Chromatic scale(s) maker for the mod "Sonic.exe the rom"
+- [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
 
 ## FNF
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician of fnf
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer of fnf
 - [PhantomArcade3K](https://twitter.com/phantomarcade3k) - Animator of fnf
 - [Evilsk8r](https://twitter.com/evilsk8r)  - Artist of fnf
-
-----------------------------------------------
-Thanks for checking out our Engine! Do you have any question? Go to the [discussions](https://github.com/Manux123/FNF-Cool-Engine/discussions) tab!
