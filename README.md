@@ -13,6 +13,11 @@
 - [RAS1_friend](https://scratch.mit.edu/users/RAS1_friend) - Chromatic scale(s) maker for the mod "Sonic.exe the rom"
 - [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
 
+----------------------------------------------
+
+![](/art/Leak.png)
+----------------------------------------------
+
 ## FNF
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician of fnf
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer of fnf
