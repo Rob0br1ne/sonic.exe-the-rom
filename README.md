@@ -12,6 +12,7 @@
 - [Funni_guy6](https://scratch.mit.edu/users/Funni_guy6) - Artist for the mod "Sonic.exe the rom"
 - [RAS1_friend](https://scratch.mit.edu/users/RAS1_friend) - Chromatic scale(s) maker for the mod "Sonic.exe the rom"
 - [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
+- [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
 
 ----------------------------------------------
 ## old menu
