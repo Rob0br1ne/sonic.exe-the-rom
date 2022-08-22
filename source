@@ -28,16 +28,15 @@ version_0.2.0
 engine_add yourself playable engine_purpy_and_rob0
 whenpressenter
 whenpressescape
-credits_kade_pysich
+credits_psych_engine
 --weeks--
 execution
 infinite
 --menuoptions--
-menu_options
-menu_credits
 menu_story_mode
 menu_freeplay
-menu_awards
-menu_art
-menu_story_modeextra
-menu_bios
+menu_content
+menu_options
+*art (will be inside content)
+menu_story_modeextra (might be in the mod.)
+*bios (will be inside content)
