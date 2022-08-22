@@ -2,7 +2,7 @@
 
 ----------------------------------------------
 
-![](/art/EpicLogo.png)
+![](/art/BrandNewLogo.png)
 ----------------------------------------------
 
 ## The Cool Engine Team Credits
