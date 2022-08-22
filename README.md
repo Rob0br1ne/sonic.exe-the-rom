@@ -3,6 +3,7 @@
 ----------------------------------------------
 
 ![](/art/BrandNewLogo.png)
+![](/art/GIFNewLogo.gif)
 ----------------------------------------------
 
 ## The Cool Engine Team Credits
