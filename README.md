@@ -15,9 +15,6 @@
 - [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
 
 ----------------------------------------------
-## old menu
-![](/art/Leak.png)
-
 ## new menu
 ![](/art/MenuUpdated.png)
 ----------------------------------------------
