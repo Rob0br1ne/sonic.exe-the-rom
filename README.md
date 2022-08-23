@@ -19,7 +19,7 @@
 ![](/art/Leak.png)
 
 ## new menu
-![](/art/MenuRemastered.png)
+![](/art/MenuUpdated.png)
 ----------------------------------------------
 
 ## FNF
