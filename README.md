@@ -22,6 +22,11 @@
 - [purpy](https://scratch.mit.edu/users/purpy) - original idea and coder
 - [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff/) - Chart handler and more
 
+## Engine modified credits
+
+- [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - modified the menu
+- [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - modifies the story mode
+
 
 
 
