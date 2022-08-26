@@ -2,7 +2,7 @@
 
 ----------------------------------------------
 
-![](/art/logo sonicexe.png)
+![](/art/logonewsonicexerom.png)
 ----------------------------------------------
 
 ## The Cool Engine Team Credits
