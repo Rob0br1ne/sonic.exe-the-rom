@@ -5,7 +5,7 @@
 ![](/art/logonewsonicexerom.png)
 ----------------------------------------------
 
-## The Cool Engine Team Credits
+## The Cool Mod Team Credits
 - [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - Director of the mod "sonic.exe the rom," and is also coder.
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the mod "Sonic.exe the rom"
 - [Pokinyoko](https://scratch.mit.edu/users/Pokinyoko) - Artist for the mod "Sonic.exe the rom" (also made the logo!)
@@ -15,6 +15,7 @@
 - [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
 - [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon/) - New logo"
 - [Vova__tv](https://scratch.mit.edu/users/Vova__tv/) - Second logo created"
+
 
 ----------------------------------------------
 ## new menu
