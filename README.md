@@ -14,7 +14,7 @@
 - [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
 - [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
 - [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon/) - New logo"
-- [Vova__tv](https://scratch.mit.edu/users/Vova__tv/) - New logo"
+- [Vova__tv](https://scratch.mit.edu/users/Vova__tv/) - Second logo created"
 
 ----------------------------------------------
 ## new menu
