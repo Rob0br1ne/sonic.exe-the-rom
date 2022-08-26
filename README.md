@@ -16,6 +16,14 @@
 - [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon/) - New logo"
 - [Vova__tv](https://scratch.mit.edu/users/Vova__tv/) - Second logo created"
 
+## The engine credits
+
+- [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the engine
+- [purpy](https://scratch.mit.edu/users/purpy) - original idea and coder
+- [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff/) - Chart handler and more
+
+
+
 
 ----------------------------------------------
 ## new menu
