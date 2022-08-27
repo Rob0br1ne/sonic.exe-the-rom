@@ -16,16 +16,18 @@
 - [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon/) - New logo"
 - [Vova__tv](https://scratch.mit.edu/users/Vova__tv/) - Second logo created"
 
-## The engine credits
+## The engine credits - A.Y.S.E
 
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the engine
 - [purpy](https://scratch.mit.edu/users/purpy) - original idea and coder
 - [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff/) - Chart handler and more
+- [Engine](https://scratch.mit.edu/projects/708619040/) - Engine lol
 
-## Engine modified credits
+## Engine modified credits - EXEENGINE
 
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - modified the menu
 - [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - modifies the story mode
+- [Original Engine](https://scratch.mit.edu/projects/708619040/) - Original Engine lol
 
 
 
