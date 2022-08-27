@@ -37,7 +37,7 @@
 ![](/art/menuUpdated.png)
 ----------------------------------------------
 ## new Free play
-![](/art/menuUpdated.png)
+![](/art/freeplayleak.png)
 ---------------------------------------------
 
 ## FNF
