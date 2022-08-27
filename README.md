@@ -40,7 +40,7 @@
 ![](/art/freeplayleak.png)
 ---------------------------------------------
 
-## FNF
+## Funkin crew
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician of fnf
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer of fnf
 - [PhantomArcade3K](https://twitter.com/phantomarcade3k) - Animator of fnf
