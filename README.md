@@ -2,7 +2,7 @@
 
 ----------------------------------------------
 
-![](/art/logonewsonicexerom.png)
+![](/art/NEWNEWLOGO.png)
 ----------------------------------------------
 
 ## The Cool Mod Team Credits
