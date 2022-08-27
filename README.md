@@ -36,6 +36,9 @@
 ## new menu
 ![](/art/menuUpdated.png)
 ----------------------------------------------
+## new Free play
+![](/art/menuUpdated.png)
+---------------------------------------------
 
 ## FNF
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician of fnf
