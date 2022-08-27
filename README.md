@@ -41,7 +41,7 @@
 (A typo ;-; )
 ---------------------------------------------
 ## new Start Screen
-![](/art/titlescreensonic.mp4)
+Watch the archive ;)
 ---------------------------------------------
 
 ## Funkin crew
