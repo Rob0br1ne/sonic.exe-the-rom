@@ -40,6 +40,9 @@
 ![](/art/freeplayleak.png)
 (A typo ;-; )
 ---------------------------------------------
+## new Start Screen
+![](/art/titlescreensonic.mp4)
+---------------------------------------------
 
 ## Funkin crew
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician of fnf
