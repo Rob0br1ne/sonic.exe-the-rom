@@ -23,7 +23,7 @@
 - [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff/) - Chart handler and more
 - [Engine](https://scratch.mit.edu/projects/708619040/) - Engine lol
 
-## Engine modified credits - EXEENGINE
+## Engine modified credits - EXE ENGINE
 
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - modified the menu
 - [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - modifies the story mode
@@ -39,9 +39,6 @@
 ## new Free play
 ![](/art/freeplayleak.png)
 (A typo ;-; )
----------------------------------------------
-## new Start Screen
-Watch the archive ;)
 ---------------------------------------------
 
 ## Funkin crew
