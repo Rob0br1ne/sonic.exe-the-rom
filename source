@@ -1,0 +1,42 @@
+up
+down
+left
+right
+J
+F
+D
+K
+--stages--
+stages1
+--your thinks--
+--Rating source--
+sick
+good
+meh
+ugly
+bad
+--combo rating%--
+0
+--debugmode--
+no
+--only for new updates so you can check for updates-
+yes
+menu_bg_updates
+music_updates
+text_updates
+version_0.2.0
+engine_add yourself playable engine_purpy_and_rob0
+whenpressenter
+whenpressescape
+credits_psych_engine
+--weeks--
+execution
+infinite
+--menuoptions--
+menu_story_mode
+menu_freeplay
+menu_content
+menu_options
+*art (will be inside content)
+menu_story_modeextra (might be in the mod.)
+*bios (will be inside content)
