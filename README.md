@@ -5,7 +5,7 @@
 ![](/art/NEWNEWLOGO.png)
 ----------------------------------------------
 
-## The Cool Mod Team Credits
+## Sonic.exe The Rom Team Credits
 - [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - Director of the mod "sonic.exe the rom," and is also coder.
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the mod "Sonic.exe the rom"
 - [Pokinyoko](https://scratch.mit.edu/users/Pokinyoko) - Artist for the mod "Sonic.exe the rom" (also made the logo!)
@@ -13,21 +13,24 @@
 - [RAS1_friend](https://scratch.mit.edu/users/RAS1_friend) - Chromatic scale(s) maker for the mod "Sonic.exe the rom"
 - [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
 - [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
-- [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon/) - New logo"
-- [Vova__tv](https://scratch.mit.edu/users/Vova__tv/) - Second logo created"
+- [onedumbhead]()https://scratch.mit.edu/users/onedumbhead) - Artist for the mod "Sonic.exe the rom"
+- [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon) - New logo"
+- [JoeysStuff20](https://scratch.mit.edu/users/JoeysStuff20) - for the mod "Sonic.exe the rom"
+- [BOOMBOPMAKER33](https://scratch.mit.edu/users/BOOMBOPMAKER33) - Added their character "Soni" into the mod "Sonic.exe the rom"
+- [pat_reese](https://scratch.mit.edu/users/pat_reese) - Cover maker for the mod "Sonic.exe the rom"
 
-## The engine credits - A.Y.S.E
+## The Engine Credits - A.Y.S.E
 
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the engine
 - [purpy](https://scratch.mit.edu/users/purpy) - original idea and coder
-- [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff/) - Chart handler and more
-- [Engine](https://scratch.mit.edu/projects/708619040/) - Engine lol
+- [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff) - Chart handler and more
+- [Engine](https://scratch.mit.edu/projects/708619040/ - Engine lol
 
-## Engine modified credits - EXE ENGINE
+## Engine Modified Credits - EXE ENGINE
 
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - modified the menu
 - [sofy205_62](https://scratch.mit.edu/users/sofy205_62) - modifies the story mode
-- [Original Engine](https://scratch.mit.edu/projects/708619040/) - Original Engine lol
+- [Original Engine](https://scratch.mit.edu/projects/708619040) - Original Engine lol
 
 
 
