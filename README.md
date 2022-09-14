@@ -16,7 +16,6 @@
 - [onedumbhead]()https://scratch.mit.edu/users/onedumbhead) - Artist for the mod "Sonic.exe the rom"
 - [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon) - New logo"
 - [JoeysStuff20](https://scratch.mit.edu/users/JoeysStuff20) - for the mod "Sonic.exe the rom"
-- [BOOMBOPMAKER33](https://scratch.mit.edu/users/BOOMBOPMAKER33) - Added their character "Soni" into the mod "Sonic.exe the rom"
 - [pat_reese](https://scratch.mit.edu/users/pat_reese) - Cover maker for the mod "Sonic.exe the rom"
 
 ## The Engine Credits - A.Y.S.E
