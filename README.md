@@ -23,7 +23,7 @@
 - [Rob0br1ne__](https://scratch.mit.edu/users/Rob0br1ne__) - Coder and artist for the engine
 - [purpy](https://scratch.mit.edu/users/purpy) - original idea and coder
 - [SquigglyTuff](https://scratch.mit.edu/users/SquigglyTuff) - Chart handler and more
-- [Engine](https://scratch.mit.edu/projects/708619040/ - Engine lol
+- [Engine](https://scratch.mit.edu/projects/708619040/) - Engine lol
 
 ## Engine Modified Credits - EXE ENGINE
 
