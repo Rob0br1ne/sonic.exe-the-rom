@@ -14,8 +14,8 @@
 - [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
 - [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
 - [onedumbhead](https://scratch.mit.edu/users/onedumbhead) - Artist for the mod "Sonic.exe the rom"
-- [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon) - New logo"
-- [JoeysStuff20](https://scratch.mit.edu/users/JoeysStuff20) - for the mod "Sonic.exe the rom"
+- [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon) - New logo + Artist for the mod "Sonic.exe the rom"
+- [JoeysStuff20](https://scratch.mit.edu/users/JoeysStuff20) - Artist for the mod "Sonic.exe the rom"
 - [pat_reese](https://scratch.mit.edu/users/pat_reese) - Cover maker for the mod "Sonic.exe the rom"
 - [Silicryt](https://scratch.mit.edu/users/Silicryt) - Concept maker for the mod "Sonic.exe the rom"
 
