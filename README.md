@@ -12,7 +12,7 @@
 - [Funni_guy6](https://scratch.mit.edu/users/Funni_guy6) - Artist for the mod "Sonic.exe the rom"
 - [RAS1_friend](https://scratch.mit.edu/users/RAS1_friend) - Chromatic scale(s) maker for the mod "Sonic.exe the rom"
 - [clonemiguel](https://scratch.mit.edu/users/clonemiguel) - musician for the mod "Sonic.exe the rom"
-- [purpy](https://scratch.mit.edu/users/purpy) - musician for the mod "Sonic.exe the rom"
+- [purpy](https://scratch.mit.edu/users/purpy) - a musician for the mod "Sonic.exe the rom"
 - [onedumbhead](https://scratch.mit.edu/users/onedumbhead) - Artist for the mod "Sonic.exe the rom"
 - [TomTheRacoon](https://scratch.mit.edu/users/TomTheRacoon) - New logo + Artist for the mod "Sonic.exe the rom"
 - [JoeysStuff20](https://scratch.mit.edu/users/JoeysStuff20) - Artist for the mod "Sonic.exe the rom"
@@ -39,7 +39,7 @@
 ## new menu
 ![](/art/menuUpdated.png)
 ----------------------------------------------
-## new Free play
+## New freeplay
 ![](/art/freeplayleak.png)
 (A typo ;-; )
 ---------------------------------------------
